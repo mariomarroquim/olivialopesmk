@@ -3,12 +3,11 @@ html {
 }
 
 body {
-  padding: 26px 0px 26px 0px;
   color: #ffffff;
   background: #DA8297;
-  background: -webkit-linear-gradient(top left, #DA8297, #266FDB);
-  background: -moz-linear-gradient(top left, #DA8297, #266FDB);
-  background: linear-gradient(to bottom right, #DA8297, #266FDB);
+  background: -webkit-linear-gradient(top left, #DA8297, #f1b2c1);
+  background: -moz-linear-gradient(top left, #DA8297, #f1b2c1);
+  background: linear-gradient(to bottom right, #DA8297, #f1b2c1);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -32,7 +31,7 @@ a:active, a:hover {
 }
 
 .main-content {
-  min-height: 76vh;
+  min-height: 82vh;
 }
 
 .main-content .btn {
