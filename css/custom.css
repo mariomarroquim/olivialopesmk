@@ -1,0 +1,40 @@
+html {
+  min-height: 100%;
+}
+
+body {
+  padding: 26px 0px 26px 0px;
+  color: #ffffff;
+  background: #DA8297;
+  background: -webkit-linear-gradient(top left, #DA8297, #266FDB);
+  background: -moz-linear-gradient(top left, #DA8297, #266FDB);
+  background: linear-gradient(to bottom right, #DA8297, #266FDB);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+img {
+  height: 140px;
+}
+
+.h1, h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 2.5rem;
+}
+
+a {
+  color: #ffffff;
+}
+
+a:active, a:hover {
+  color: #a6dae2;
+  text-decoration: none;
+}
+
+.main-content {
+  min-height: 76vh;
+}
+
+.main-content .btn {
+  width: 120px;
+}
